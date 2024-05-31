@@ -11,7 +11,6 @@ def process_file(input_filename, output_filename):
     # Find the maximum number of lines in the sections
     max_lines = max(len(section) for section in sections)
 
-    # Pad shorter sections with empty strings to match the length of the longest section
     padded_sections = [section + [''] * (max_lines - len(section)) for section in sections]
 
     # Combine lines from each section into columns
