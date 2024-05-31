@@ -1,0 +1,35 @@
+Default 
+ESS PCE-Notes-PE
+ESS Posted
+ESS Posted-MP
+ESS Timestamp
+ESS UnPosted
+ESS UnPosted-MP
+ESS VO
+SysAdmin
+FSU SuperUser
+Kronos Reporting Analyst
+PowerUser
+Mgr Level 2 
+Mgr Level 2 AdvSched
+Mgr Level 2 AdvSched-MP
+Mgr Level 2-MP
+Mgr Level 3
+Mgr Level 3 AdvSched
+Mgr Level 3 AdvSched-WLP
+Mgr Level 3 AdvSchedERP-Moves
+Mgr Level 3 AdvSchedERP-PFS
+Mgr Level 3 AdvSched-MP
+Mgr Level 3-MP
+SMgr Level 3
+SMgr Level 3 AdvSched
+SMgr Level 3 AdvSched-WLP
+SMgr Level 3 AdvSchedERP-Moves
+SMgr Level 3 AdvSched-PFS
+SMgr Level 3 AdvSched-MP
+SMgr Level 3-MP
+Schedulers VO
+Schedulers, VO-TCAT
+Schedulers, VO-TCAT-MP
+Timekeepers
+Timekeepers AdvSched
